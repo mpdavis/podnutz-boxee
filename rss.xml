@@ -12,7 +12,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>Podnutz Daily</title>
             <link>rss://feeds.feedburner.com/podnutzdaily/</link>
             <boxee:image>http://www.podnutz.com/images/pnd-logo-220.jpg</boxee:image>
@@ -20,7 +20,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>The Great Tech Debate</title>
             <link>rss://feeds.feedburner.com/thegreattechdebate/</link>
             <boxee:image>http://www.podnutz.com/images/tgtd-logo-220.jpg</boxee:image>
@@ -28,7 +28,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>Podnutz at Night</title>
             <link>rss://feeds2.feedburner.com/nutzatnight/</link>
             <boxee:image>http://www.podnutz.com/images/nutzatnight-logo-220.jpg</boxee:image>
@@ -36,7 +36,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>My Hard Drive Died</title>
             <link>rss://feeds.feedburner.com/myharddrivedied/</link>
             <boxee:image>http://www.podnutz.com/images/mhdd-logo-220.jpg</boxee:image>
@@ -44,7 +44,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>Linux for the Rest of Us</title>
             <link>rss://feeds.feedburner.com/linuxfortherestofus/</link>
             <boxee:image>http://www.podnutz.com/images/lftrou-logo-220.jpg</boxee:image>
@@ -52,7 +52,7 @@
             <boxee:provider-name>Podnutz</boxee:provider-name>
             <boxee:provider>podnutz</boxee:provider>
         </item>
-		<item>
+	<item>
             <title>Android App Addicts</title>
             <link>rss://feeds.feedburner.com/androidappaddicts/</link>
             <boxee:image>http://www.podnutz.com/images/aaa-logo-220.jpg</boxee:image>
