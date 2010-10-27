@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:boxee="http://boxee.tv/rss" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Podnutz</title>
+        <description> </description>
+        <language>en-us</language>
+        <item>
+            <title>Podnutz</title>
+            <link>rss://feeds.feedburner.com/podnutz/</link>
+            <boxee:image>http://www.podnutz.com/images/podnutz-logo-220.jpg</boxee:image>
+            <description>DIY Computer Repair Podcast</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>Podnutz Daily</title>
+            <link>rss://feeds.feedburner.com/podnutzdaily/</link>
+            <boxee:image>http://www.podnutz.com/images/pnd-logo-220.jpg</boxee:image>
+            <description>A Day In The Life Of A Computer Repair Tech</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>The Great Tech Debate</title>
+            <link>rss://feeds.feedburner.com/thegreattechdebate/</link>
+            <boxee:image>http://www.podnutz.com/images/tgtd-logo-220.jpg</boxee:image>
+            <description>A roundtable discussion about tech issues vs tech issues!</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>Podnutz at Night</title>
+            <link>rss://feeds2.feedburner.com/nutzatnight/</link>
+            <boxee:image>http://www.podnutz.com/images/nutzatnight-logo-220.jpg</boxee:image>
+            <description>Late Night Tech Talk</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>My Hard Drive Died</title>
+            <link>rss://feeds.feedburner.com/myharddrivedied/</link>
+            <boxee:image>http://www.podnutz.com/images/mhdd-logo-220.jpg</boxee:image>
+            <description>with Scott Moulton</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>Linux for the Rest of Us</title>
+            <link>rss://feeds.feedburner.com/linuxfortherestofus/</link>
+            <boxee:image>http://www.podnutz.com/images/lftrou-logo-220.jpg</boxee:image>
+            <description>Learn Linux With Our Help!</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+		<item>
+            <title>Android App Addicts</title>
+            <link>rss://feeds.feedburner.com/androidappaddicts/</link>
+            <boxee:image>http://www.podnutz.com/images/aaa-logo-220.jpg</boxee:image>
+            <description>Android operating system podcast covering our favorite apps, Android news, updates, etc...</description>
+            <boxee:provider-name>Podnutz</boxee:provider-name>
+            <boxee:provider>podnutz</boxee:provider>
+        </item>
+	</channel>
+</rss>
