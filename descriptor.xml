@@ -1,0 +1,14 @@
+<app>
+     <id>podnutz</id>
+     <name>Podnutz</name>    
+     <version>1.0</version>    
+     <description>DIY Computer Repair Podcast</description>
+     <thumb>http://www.public.iastate.edu/~mpdavis/podnutz/200-podnutz.png</thumb>
+     <media>music</media>    
+     <copyright>Michael Davis</copyright>
+     <email>mike.philip.davis@gmail.com</email>
+     <type>rss</type>
+     <platform>all</platform>
+     <minversion>0.9.20</minversion>
+     <url>rss://www.public.iastate.edu/~mpdavis/podnutz/rss.xml</url>
+</app>
